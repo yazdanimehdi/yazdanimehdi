@@ -45,9 +45,9 @@ I'm a Ph.D. candidate in Computer Science at the University of Central Florida, 
 
 ### 📫 Connect With Me
 
-- [Personal Website](https://mehdiyazdani.com)  
-- [LinkedIn](https://linkedin.com/in/mehdi-yazdani)  
-- [Google Scholar](https://scholar.google.com/citations?user=XXXXX)  
+- [Personal Website](https://yazdanimehdi.com)  
+- [LinkedIn](https://linkedin.com/in/yazdanimehdi)  
+- [Google Scholar](https://scholar.google.com/citations?user=iLu_fEcAAAAJ&hl=en)
 ---
 
 🧠 *Building the next generation of biological AI models, one codon at a time.*
