@@ -32,7 +32,7 @@ I'm a Ph.D. candidate in Computer Science at the University of Central Florida, 
 
 ### 📍 Current & Upcoming
 
-- 💼 Incoming AI Research Scientist Intern @ Microsoft Research (Bio-LLMs)
+- 💼 AI Research Scientist Intern @ Microsoft Research (Bio-LLMs)
   
 ---
 
